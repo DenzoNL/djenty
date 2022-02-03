@@ -1,0 +1,11 @@
+.git
+.github
+.gitignore
+.husky
+commitlint.config.js
+Dockerfile
+k8s-manifests
+LICENSE
+node_modules
+README.md
+test
